@@ -1,12 +1,16 @@
 <h1 align="center">Welcome to Aayan Infotech 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/here" />
+  <img src="file:///home/amazing_atul/Downloads/aayan.jpeg/here" />
 </p>
 
 <p align="center">
   <b>Delivering Excellence in IT Services and Consulting</b>
 </p>
+
+
+
+
 
 ## 🌐 About Us
 
@@ -31,6 +35,32 @@ Feel free to reach out to us for collaborations, inquiries, or more information:
 - **Email**: contact@aayaninfotech.com
 
 ---
+
+
+
+
+
+
+
+
+
+
+file:///home/amazing_atul/Downloads/aayan.jpeg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   Show some ❤️ by starring some of our repositories!
