@@ -37,31 +37,6 @@ Feel free to reach out to us for collaborations, inquiries, or more information:
 ---
 
 
-
-
-
-
-
-
-
-
-file:///home/amazing_atul/Downloads/aayan.jpeg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   Show some ❤️ by starring some of our repositories!
 </p>
