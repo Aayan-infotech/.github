@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Aayan Infotech 👋</h1>
 
 <p align="center">
-  <img src="file:///home/amazing_atul/Downloads/aayan.jpeg/here" />
+  <img src="https://github.com/Aayan-infotech/Aayan-infotech/edit/main/aayan.jpeg/here" />
 </p>
 
 <p align="center">
